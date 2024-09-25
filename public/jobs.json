@@ -1,0 +1,211 @@
+[
+     {
+      "id": 1,
+      "logo": "https://i.ibb.co.com/WF4yBBt/923169-65414-OCB94-Y-43-removebg-preview.png",
+      "book_title": "The Catcher in the Rye",
+      "writer_name": "Awlad Hossain",
+      "age_or_time": "young Adult",
+      "location": "Dhaka, Bangladesh",
+      "identity": "Identity",
+      "rating": "5.00",
+      "number_of_page": "192",
+      "publisher": "J.B Lippincott & Co.",
+      "review": " Sit amet consectetur. Interdum porta pulvinar non sit aliquam. Aenean pulvinar blandit vel non enim elementum penatibus pellentesque ac. Nec accumsan euismod nulla adipiscing lectus.",
+      "hash_tags": [
+        "#Young_Adult",
+        
+        "#Identity" 
+      ] ,
+      "year_of_publishing": "1960",
+      "contact_information": {
+        "phone": "01750-00 00 00",
+        "email": "info@gmail.com",
+        "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+      }
+    },
+    {
+      "id": 2,
+      "logo": "https://i.ibb.co.com/Rz6nGgH/978804-81711-OGMO1-O-129-removebg-preview.png",
+      "book_title": "The Catcher in the Rye",
+      "writer_name": "Awlad Hossain",
+      "age_or_time": "young Adult",
+      "location": "Dhaka, Bangladesh",
+      "identity": "Identity",
+      "rating": "4.98",
+      "number_of_page": "170",
+      "publisher": "J.B Lippincott & Co.",
+      "review": " Sit amet consectetur. Interdum porta pulvinar non sit aliquam. Aenean pulvinar blandit vel non enim elementum penatibus pellentesque ac. Nec accumsan euismod nulla adipiscing lectus.",
+      "hash_tags": [
+        "#Young_Adult",
+        "#Identity" 
+      ] ,
+      "year_of_publishing": "1980",
+      "contact_information": {
+        "phone": "01750-00 00 00",
+        "email": "info@gmail.com",
+        "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+      }
+      },
+      {
+        "id": 3,
+        "logo": "https://i.ibb.co.com/X7qWrjT/24122013-6854237-removebg-preview.png",
+        "book_title": "The Catcher in the Rye",
+        "writer_name": "Awlad Hossain",
+        "age_or_time": "young Adult",
+        "location": "Dhaka, Bangladesh",
+        "identity": "Identity",
+        "rating": "4.98",
+        "number_of_page": "170",
+        "publisher": "J.B Lippincott & Co.",
+        "review": " Sit amet consectetur. Interdum porta pulvinar non sit aliquam. Aenean pulvinar blandit vel non enim elementum penatibus pellentesque ac. Nec accumsan euismod nulla adipiscing lectus.",
+        "hash_tags": [
+          "#Young_Adult",
+          "#Identity" 
+        ] ,
+        "year_of_publishing": "1980",
+        "contact_information": {
+          "phone": "01750-00 00 00",
+          "email": "info@gmail.com",
+          "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+        }
+      },
+      {
+        "id": 4,
+        "logo": "https://i.ibb.co.com/pRGsksR/2805115-400553-PD5-N11-76-removebg-preview.png",
+        "book_title": "The Catcher in the Rye",
+        "writer_name": "Awlad Hossain",
+        "age_or_time": "young Adult",
+        "location": "Dhaka, Bangladesh",
+        "identity": "Identity",
+        "rating": "4.98",
+        "number_of_page": "170",
+        "publisher": "J.B Lippincott & Co.",
+        "review": " Sit amet consectetur. Interdum porta pulvinar non sit aliquam. Aenean pulvinar blandit vel non enim elementum penatibus pellentesque ac. Nec accumsan euismod nulla adipiscing lectus.",
+        "hash_tags": [
+          "#Young_Adult",
+          "#Identity" 
+        ] ,
+        "year_of_publishing": "1980",
+        "contact_information": {
+          "phone": "01750-00 00 00",
+          "email": "info@gmail.com",
+          "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+        }
+      },
+      {
+        "id": 5,
+        "logo": "https://i.ibb.co.com/4T3sCFm/20896913-6316016-removebg-preview.png",
+        "book_title": "The Catcher in the Rye",
+        "writer_name": "Awlad Hossain",
+        "age_or_time": "young Adult",
+        "location": "Dhaka, Bangladesh",
+        "identity": "Identity",
+        "rating": "4.00",
+        "number_of_page": "177",
+        "publisher": "J.B Lippincott & Co.",
+        "review": " Sit amet consectetur. Interdum porta pulvinar non sit aliquam. Aenean pulvinar blandit vel non enim elementum penatibus pellentesque ac. Nec accumsan euismod nulla adipiscing lectus.",
+        "hash_tags": [
+          "#Young_Adult",
+          "#Identity" 
+        ] ,
+        "year_of_publishing": "1967",
+        "contact_information": {
+          "phone": "01750-00 00 00",
+          "email": "info@gmail.com",
+          "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+        }
+      },
+      {
+        "id": 6,
+        "logo": "https://i.ibb.co.com/4NHzsgw/2348350-319624-P989-LE-605-removebg-preview.png",
+        "book_title": "The Catcher in the Rye",
+        "writer_name": "Awlad Hossain",
+        "age_or_time": "young Adult",
+        "location": "Dhaka, Bangladesh",
+        "identity": "Identity",
+        "rating": "4.00",
+        "number_of_page": "177",
+        "publisher": "J.B Lippincott & Co.",
+        "review": " Sit amet consectetur. Interdum porta pulvinar non sit aliquam. Aenean pulvinar blandit vel non enim elementum penatibus pellentesque ac. Nec accumsan euismod nulla adipiscing lectus.",
+        "hash_tags": [
+          "#Young_Adult",
+          "#Identity" 
+        ] ,
+        "year_of_publishing": "1967",
+        "contact_information": {
+          "phone": "01750-00 00 00",
+          "email": "info@gmail.com",
+          "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+        }
+      },
+      {
+        "id": 7,
+        "logo": "https://i.ibb.co.com/WF4yBBt/923169-65414-OCB94-Y-43-removebg-preview.png",
+        "book_title": "The Catcher in the Rye",
+        "writer_name": "Awlad Hossain",
+        "age_or_time": "young Adult",
+        "location": "Dhaka, Bangladesh",
+        "identity": "Identity",
+        "rating": "4.00",
+        "number_of_page": "177",
+        "publisher": "J.B Lippincott & Co.",
+        "review": " Sit amet consectetur. Interdum porta pulvinar non sit aliquam. Aenean pulvinar blandit vel non enim elementum penatibus pellentesque ac. Nec accumsan euismod nulla adipiscing lectus.",
+        "hash_tags": [
+          "#Young_Adult",
+          "#Identity" 
+        ] ,
+        "year_of_publishing": "1967",
+        "contact_information": {
+          "phone": "01750-00 00 00",
+          "email": "info@gmail.com",
+          "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+        }
+      },
+      {
+        "id": 8,
+        "logo": "https://i.ibb.co.com/4T3sCFm/20896913-6316016-removebg-preview.png",
+        "book_title": "The Catcher in the Rye",
+        "writer_name": "Awlad Hossain",
+        "age_or_time": "young Adult",
+        "location": "Dhaka, Bangladesh",
+        "identity": "Identity",
+        "rating": "5.00",
+        "number_of_page": "192",
+        "publisher": "J.B Lippincott & Co.",
+        "review": " Sit amet consectetur. Interdum porta pulvinar non sit aliquam. Aenean pulvinar blandit vel non enim elementum penatibus pellentesque ac. Nec accumsan euismod nulla adipiscing lectus.",
+        "hash_tags": [
+          "#Young_Adult",
+          "#Identity" 
+        ] ,
+        "year_of_publishing": "1960",
+        "contact_information": {
+          "phone": "01750-00 00 00",
+          "email": "info@gmail.com",
+          "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+        }
+      },
+      {
+        "id": 9,
+        "logo": "https://i.ibb.co.com/5BdGSqR/7264704-3579749-removebg-preview.png",
+        "book_title": "The Catcher in the Rye",
+        "writer_name": "Awlad Hossain",
+        "age_or_time": "young Adult",
+        "location": "Dhaka, Bangladesh",
+        "identity": "Identity",
+        "rating": "5.00",
+        "number_of_page": "192",
+        "publisher": "J.B Lippincott & Co.",
+        "review": " Sit amet consectetur. Interdum porta pulvinar non sit aliquam. Aenean pulvinar blandit vel non enim elementum penatibus pellentesque ac. Nec accumsan euismod nulla adipiscing lectus.",
+        "hash_tags": [
+          "#Young_Adult",
+          "#Identity" 
+        ] ,
+        "year_of_publishing": "1960",
+        "contact_information": {
+          "phone": "01750-00 00 00",
+          "email": "info@gmail.com",
+          "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+        }
+      }
+  
+  ]
